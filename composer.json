@@ -1,8 +1,8 @@
 {
-    "name": "mibe/feedwriter",
+    "name": "ericshea00/feedwriter",
     "description": "Generate feeds in either RSS 1.0, RSS 2.0 or ATOM formats",
     "keywords": ["RSS", "ATOM", "feed"],
-    "homepage": "https://github.com/mibe/FeedWriter",
+    "homepage": "https://github.com/ericshea00/FeedWriter",
     "type": "library",
     "license": "GPL-3.0",
     "authors": [
@@ -37,6 +37,9 @@
         },
         {
             "name": "Julian Bogdani"
+        },
+        {
+            "name": "Eric Shea"
         }
     ],
     "minimum-stability": "dev",
